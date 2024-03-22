@@ -1,0 +1,117 @@
+\documentclass[12pt,a4paper]{report}  %紙張設定
+\usepackage{xeCJK}%中文字體模組
+%\setCJKmainfont{標楷體} %設定中文字體
+\setCJKmainfont{MoeStandardKai.ttf}
+%\newfontfamily\sectionef{Times New Roman}%設定英文字體
+\newfontfamily\sectionef{Nimbus Roman}
+\usepackage{enumerate}
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+{\normalfont\fontsize{20}{22}\selectfont\bfseries\filcenter}
+{\chaptertitlename\ \thechapter}{10pt}{\fontsize{18}{22}\selectfont}
+\titlespacing*{\chapter}{0pt}{-10pt}{2pt}
+\usepackage{amsmath,amssymb}%數學公式、符號
+\usepackage{amsfonts} %數學簍空的英文字
+\usepackage{graphicx, subfigure}%圖形
+\usepackage{fontawesome5} %引用icon
+\usepackage{type1cm} %調整字體絕對大小
+\usepackage{textpos} %設定文字絕對位置
+\usepackage[top=2.5truecm,bottom=2.5truecm,
+left=3truecm,right=2.5truecm]{geometry}
+\usepackage{titlesec} %目錄標題設定模組
+\usepackage{titletoc} %目錄內容設定模組
+\usepackage{textcomp} %表格設定模組
+\usepackage{multirow} %合併行
+%\usepackage{multicol} %合併欄
+\usepackage{CJK} %中文模組
+\usepackage{CJKnumb} %中文數字模組
+\usepackage{wallpaper} %浮水印
+\usepackage{listings} %引用程式碼
+\usepackage{hyperref} %引用url連結
+\usepackage{setspace}
+\usepackage{lscape}%設定橫式
+\lstset{language=Python, %設定語言
+		basicstyle=\fontsize{10pt}{2pt}\selectfont, %設定程式內文字體大小
+		frame=lines,	%設定程式框架為線
+}
+%\usepackage{subcaption}%副圖標
+\graphicspath{{./../images/}} %圖片預設讀取路徑
+\usepackage{indentfirst} %設定開頭縮排模組
+\renewcommand{\figurename}{\Large 圖.} %更改圖片標題名稱
+\renewcommand{\tablename}{\Large 表.}
+\renewcommand{\lstlistingname}{\Large 程式.} %設定程式標示名稱
+\hoffset=-5mm %調整左右邊界
+\voffset=-8mm %調整上下邊界
+\setlength{\parindent}{3em}%設定首行行距縮排
+\usepackage{appendix} %附錄
+\usepackage{diagbox}%引用表格
+\usepackage{multirow}%表格置中
+
+%--------------------封面-----------------------------%
+\begin{document}
+
+\begin{center}
+\vspace*{1cm}
+  \fontsize{18}{16}\selectfont \textbf{POLITECNICO DI TORINO}\par
+\end{center}
+\begin{center}
+    \fontsize{18}{16}\selectfont \textbf{都靈理工大學}\\
+\end{center}
+% 在图像下方添加分界线
+\noindent\rule{\textwidth}{0.4pt}
+\vspace{0.5em}
+\begin{center}
+  \fontsize{12}{16}\selectfont \textbf{ANALYSIS OF THE ODOO SOFTWARE CAPABILITIES REGARDING 
+PRODUCT LIFECYCLE MANAGEMENT, MANUFACTURING EXECUTION 
+SYSTEMS AND THEIR INTEGRATION}\par
+\end{center}
+\begin{center}
+   \fontsize{12}{22}\selectfont \textbf{ODOO 軟體功能分析產品生命週期管理、製造執行系統及其集成}
+\end{center}
+\vspace{1em}
+\begin{figure}[h]
+\vspace{2cm}
+    \centering
+    \includegraphics[width=0.33\textwidth]{logo} 
+    \label{fig:logo}
+\end{figure}
+\vspace{2cm}
+\noindent
+\small\textbf{SUPERVISORS} \hfill \textbf{CANDIDATE}\\
+\small\textbf{指導者} \hfill \textbf{申請人}\\
+\small\textbf{Giulia Bruno } \hfill \textbf{Lucas Flabiano Perotti}\\
+\small\textbf{朱莉婭·布魯諾} \hfill \textbf{盧卡斯·弗拉比亞諾·佩羅蒂}\\
+\small\textbf{Franco Lombardi}\hspace{\fill} \\
+\small\textbf{佛朗哥·隆巴迪}\hspace{\fill} \\
+\noindent\rule{\textwidth}{0.4pt}
+\begin{center}
+\fontsize{12}{22}\selectfont {Academic Year 2020 – 2021}\\
+\fontsize{12}{22}\selectfont {2020 – 2021 學年}
+\end{center}
+\thispagestyle{empty}
+\newpage
+%--------------------分頁-----------------------------%
+\vspace*{\fill}
+\vspace*{\fill}
+\begin{raggedright}
+    \fontsize{12}{14}\selectfont This work is subject to the Creative Commons Licence\\
+    \fontsize{12}{14}\selectfont 本作品受知識共享授權約束\\[2ex]
+    \fontsize{12}{12}\selectfont All Rights Reserved\\
+    \fontsize{12}{12}\selectfont 版權所有\\
+
+\end{raggedright}
+\thispagestyle{empty}
+\newpage
+%--------------------致謝-----------------------------%
+\input{ACKNOWLEDGMENTS.tex}
+\newpage
+%--------------------摘要-----------------------------%
+\input{ABSTRACT.tex}
+\newpage
+%--------------------目錄-----------------------------%
+%--------------------正文-----------------------------%
+\input{01.tex}
+\newpage
+\input{02.tex}
+\newpage
+\end{document}
