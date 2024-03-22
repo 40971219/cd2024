@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T07:45:51+08:00</updated><entry><title>W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-03-22T07:45:51+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程分組配置&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;協同產品設計實習課程分組配置&lt;/p&gt;
+
+
+&lt;h1&gt;w2 分組與子模組&lt;/h1&gt;
+&lt;p&gt;每8人為一組，組長建立分組倉儲，組員以子模組加入分組倉儲&lt;/p&gt;
+&lt;h2&gt;分組倉儲維護&lt;/h2&gt;
+&lt;p&gt;利用github上的codespaces對倉儲進行維護&lt;/p&gt;</content><category term="w2"></category><category term="子模組"></category></entry></feed>
