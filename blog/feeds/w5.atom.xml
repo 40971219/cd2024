@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習 - w5 教學影片整理</title><link href="./" rel="alternate"></link><link href="./feeds/w5-jiao-xue-ying-pian-zheng-li.atom.xml" rel="self"></link><id>./</id><updated>2024-03-28T08:45:57+08:00</updated><entry><title>W5</title><link href="./2024-Spring-40971219-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T14:00:00+08:00</published><updated>2024-03-28T08:45:57+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-21:./2024-Spring-40971219-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程上字幕&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-03-28T08:55:15+08:00</updated><entry><title>W5 教學影片整理</title><link href="./2024-Spring-40971219-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T14:00:00+08:00</published><updated>2024-03-28T08:55:15+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-21:./2024-Spring-40971219-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程上字幕&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程上字幕&lt;/p&gt;
 
 
@@ -22,4 +22,4 @@
 &lt;li&gt;利用codespaces直接建造資料夾並上傳檔案&lt;/li&gt;
 &lt;li&gt;利用github上的actions功能直接編譯成pdf，並把結果發布在發布區&lt;/li&gt;
 &lt;li&gt;在ignore內新增能夠移出不必要檔案的功能&lt;/li&gt;
-&lt;/ul&gt;</content><category term="w5 教學影片整理"></category><category term="上字幕"></category></entry></feed>
+&lt;/ul&gt;</content><category term="w5"></category><category term="上字幕"></category></entry></feed>
