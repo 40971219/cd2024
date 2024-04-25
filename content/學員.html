@@ -144,6 +144,92 @@ img.add_border {
         </header>
     <div id="tipue_search_content">教學影片 << <a href='教學影片.html'>Previous</a> <a href='cmsimde.html'>Next</a> >> cmsimde<br /><h1>學員</h1>
 <p>ex:</p>
+            <script src="./../cmsimde/static/brython.js"></script>
+<script src="./../cmsimde/static/brython_stdlib.js"></script>
+<!-- 啟動 Brython -->
+<p>
+<script>
+window.onload=function(){
+brython({debug:1, pythonpath:['./../cmsimde/static/','./../downloads/py/']});
+}
+</script>
+</p>
+<div id="brython_div1"></div>
+<p>
+<script type="text/python">
+from browser import window, ajax, document, html
+
+def fetch_csv_data():
+  # CSV 檔案網址
+  url = "https://mdecd2024.github.io/2bstud-2bsite/downloads/2b.txt"
+  
+  def on_complete(req):
+    if req.status == 200 or req.status == 0:
+      # 讀取 CSV 檔案內容
+      content = req.text
+  
+      # 依照換行符號拆分資料
+      lines = content.split('\n')
+  
+      # 建立空列表儲存資料
+      data = []
+  
+      # 遍歷每一行資料
+      for line in lines:
+        # 忽略空白行
+        if line.strip() == "":
+          continue
+  
+        # 依照逗號拆分資料
+        items = line.split(',')
+  
+        # 將拆分後的資料加入列表
+        data.append(items)
+      
+      # 必須去除 data 的第一列標題資料, 只取序號為 1 之後的資料
+      data = data[1:]
+  
+      # 取得 html 可以插入的標註位置
+      brython_div = document["brython_div1"]
+      course_title = "cd2024"
+
+      # 逐一處理學員資料
+      index = 0
+      for items in data:
+        index += 1
+        student_id, github_username, group = items
+        
+        if github_username == "":
+          github_username = "000"
+        
+        # 建立網站和倉儲連結，使用正確的模板
+        site_url = f"https://{github_username}.github.io/{course_title}"
+        repo_url = f"https://github.com/{github_username}/{course_title}"
+        group_site_url = f"https://mdecd2024.github.io/2b-midbg{group}"
+        group_repo_url = f"https://github.com/mdecd2024/2b-midbg{group}"
+
+        # 添加學號, 網站, 倉儲連結和序號到 brython_div
+        brython_div <= str(index) + ". " + html.A(student_id, href=site_url)
+        brython_div <= " ("
+        brython_div <= html.A("repo", href=repo_url)
+        brython_div <= ") | " 
+        brython_div <= html.A("Group Site", href=group_site_url)
+        brython_div <= " | "
+        brython_div <= html.A("Group Repo", href=group_repo_url)
+        brython_div <= html.BR()
+
+    else:
+      print("Error:", req.text)
+  
+  # 發送 AJAX 請求
+  req = ajax.ajax()
+  req.bind('complete', on_complete)
+  req.open('GET', url, True)
+  req.set_header('content-type', 'application/x-www-form-urlencoded')
+  req.send()
+  
+# 呼叫函式讀取 CSV 資料
+fetch_csv_data()
 <p><br/><br/></p><br />教學影片 << <a href='教學影片.html'>Previous</a> <a href='cmsimde.html'>Next</a> >> cmsimde</div>
 
     <!-- footer -->
