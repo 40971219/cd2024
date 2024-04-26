@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T14:51:46+08:00</updated><entry><title>W10</title><link href="./2024-Spring-40971219-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-04-26T14:51:46+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./2024-Spring-40971219-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T14:54:51+08:00</updated><entry><title>W10</title><link href="./2024-Spring-40971219-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-04-26T14:54:51+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./2024-Spring-40971219-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
 
 
@@ -71,11 +71,13 @@
 &lt;p&gt;總結：
 這篇教學手冊提供了一個全面且實用的實驗指南，涵蓋了球體平衡平台控制系統設計和實作的各个方面。它为學生提供了一個學習和理解控制理論概念的平台，并培養了他們的實踐能力和解决問題的能力。&lt;/p&gt;
 &lt;h2&gt;利用 Python 模組將系統控制過程, 鋼球在平衡台上的 x 方向座標與 y 方向, 並利用 matplotlib 畫出來&lt;/h2&gt;
-&lt;p&gt;1.開啟可攜程式系統中的 CoppeliaSim
- 2.開啟鋼球平衡台模擬場景
- 3.啟動可攜程式系統, pip install keyboard cbor pyzmq matplotlib
- 4.在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬
- 5.matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.開啟可攜程式系統中的 CoppeliaSim&lt;/li&gt;
+&lt;li&gt;2.開啟鋼球平衡台模擬場景&lt;/li&gt;
+&lt;li&gt;3.啟動可攜程式系統, pip install keyboard cbor pyzmq matplotlib&lt;/li&gt;
+&lt;li&gt;4.在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬&lt;/li&gt;
+&lt;li&gt;5.matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1&gt;任務三 鋼球平衡台零組件繪圖&lt;/h1&gt;</content><category term="w10"></category><category term="Task"></category></entry><entry><title>W8 期中資料整理</title><link href="./2024-Spring-40971219-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-04-26T14:49:38+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./2024-Spring-40971219-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程期中報告&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程期中報告&lt;/p&gt;
 
