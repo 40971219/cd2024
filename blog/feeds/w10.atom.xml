@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T14:47:59+08:00</updated><entry><title>W10</title><link href="./2024-Spring-40971219-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-04-26T14:47:59+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./2024-Spring-40971219-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T14:51:46+08:00</updated><entry><title>W10</title><link href="./2024-Spring-40971219-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-04-26T14:51:46+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./2024-Spring-40971219-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
 
 
-&lt;h1&gt;w10 任務一 建立學員的倉儲、網站與分組連結&lt;/h1&gt;
+&lt;h1&gt;任務一 建立學員的倉儲、網站與分組連結&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://40971219.github.io/cd2024/content/Brython.html"&gt;2b學員資料&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;# 任務二 鋼球平衡台 PID 控制與模擬&lt;/p&gt;
-&lt;p&gt;## 論文一:Construction and theoretical study 
- 本文研究了球體平衡平台的構造和理論研究，探討了使用自動控制理論穩定動態系統時存在的限制。
+&lt;h1&gt;任務二 鋼球平衡台 PID 控制與模擬&lt;/h1&gt;
+&lt;h2&gt;論文一:Construction and theoretical study&lt;/h2&gt;
+&lt;p&gt;本文研究了球體平衡平台的構造和理論研究，探討了使用自動控制理論穩定動態系統時存在的限制。
  主要内容：
  - 系統概述： 作者設計並搭建了一個球體平衡平台，使用電阻式觸摸面板檢測球體位置，使用 Arduino 微控制器處理數據并控制伺服電機，通過調整平台傾斜角度來保持球體平衡。
  - 數學模型： 作者利用牛頓力學建立了球體平台系統的數學模型，考慮了球體的平移和旋轉運動，并通過線性化得到了適用於控制器設計的線性模型。
