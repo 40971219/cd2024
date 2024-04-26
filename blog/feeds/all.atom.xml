@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T14:47:59+08:00</updated><entry><title>W10</title><link href="./2024-Spring-40971219-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-04-26T14:47:59+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./2024-Spring-40971219-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
 
@@ -77,16 +78,20 @@
  4.在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬
  5.matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/p&gt;
 &lt;h1&gt;任務三 鋼球平衡台零組件繪圖&lt;/h1&gt;</content><category term="w10"></category><category term="Task"></category></entry><entry><title>W8 期中資料整理</title><link href="./2024-Spring-40971219-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-04-12T10:25:30+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./2024-Spring-40971219-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程期中報告&lt;/p&gt;
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-16T04:44:49+08:00</updated><entry><title>W8 期中資料整理</title><link href="./2024-Spring-40971219-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-04-16T04:44:49+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./2024-Spring-40971219-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程期中報告&lt;/p&gt;
+>>>>>>> 9210f5283f3cfd3b7b1eb19027483de51e06d32a
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程期中報告&lt;/p&gt;
 
 
 &lt;h1&gt;w8 期中報告&lt;/h1&gt;
-&lt;p&gt;將前幾週的作業整理並介紹個人負責部分&lt;/p&gt;</content><category term="w8"></category><category term="mid report"></category></entry><entry><title>W6 NX檔案下載及安裝</title><link href="./2024-Spring-40971219-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T14:00:00+08:00</published><updated>2024-03-28T08:55:08+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-28:./2024-Spring-40971219-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程NX&lt;/p&gt;
+&lt;p&gt;將前幾週的作業整理並介紹個人負責部分&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/TuT2J_JTJ_A?si=3oPlE7gAxiB-3n29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w8"></category><category term="mid report"></category></entry><entry><title>W6 NX檔案下載及安裝</title><link href="./2024-Spring-40971219-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T14:00:00+08:00</published><updated>2024-04-12T10:31:02+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-28:./2024-Spring-40971219-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程NX&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程NX&lt;/p&gt;
 
 
 &lt;h1&gt;w6 NX檔案下載及安裝&lt;/h1&gt;
-&lt;p&gt;將NX檔案下載及安裝成可攜程式&lt;/p&gt;</content><category term="w6"></category><category term="NX download"></category></entry><entry><title>W5 教學影片整理</title><link href="./2024-Spring-40971219-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T14:00:00+08:00</published><updated>2024-03-28T08:55:15+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-21:./2024-Spring-40971219-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程上字幕&lt;/p&gt;
+&lt;p&gt;將NX檔案下載及安裝成可攜程式&lt;/p&gt;</content><category term="w6"></category><category term="NX download"></category></entry><entry><title>W5 教學影片整理</title><link href="./2024-Spring-40971219-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T14:00:00+08:00</published><updated>2024-04-12T10:31:02+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-21:./2024-Spring-40971219-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程上字幕&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程上字幕&lt;/p&gt;
 
 
@@ -109,14 +114,22 @@
 &lt;li&gt;利用codespaces直接建造資料夾並上傳檔案&lt;/li&gt;
 &lt;li&gt;利用github上的actions功能直接編譯成pdf，並把結果發布在發布區&lt;/li&gt;
 &lt;li&gt;在ignore內新增能夠移出不必要檔案的功能&lt;/li&gt;
+<<<<<<< HEAD
 &lt;/ul&gt;</content><category term="w5"></category><category term="上字幕"></category></entry><entry><title>W4 latex編譯</title><link href="./2024-Spring-40971219-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T14:00:00+08:00</published><updated>2024-04-12T10:57:24+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-14:./2024-Spring-40971219-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程latex&lt;/p&gt;
+=======
+&lt;/ul&gt;</content><category term="w5"></category><category term="上字幕"></category></entry><entry><title>W4 latex編譯</title><link href="./2024-Spring-40971219-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T14:00:00+08:00</published><updated>2024-04-16T04:40:19+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-14:./2024-Spring-40971219-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程latex&lt;/p&gt;
+>>>>>>> 9210f5283f3cfd3b7b1eb19027483de51e06d32a
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程latex&lt;/p&gt;
 
 
 &lt;h1&gt;w4 latex完成個人部分&lt;/h1&gt;
 &lt;p&gt;完成中翻英報告，個人負責部分為封面至第二章
 &lt;a href="https://nfuedu-my.sharepoint.com/:b:/g/personal/40971219_nfu_edu_tw/ETdXM-eIct9CspTEgrNn6sABA0eVl-wokio6w-_3pCVtCw"&gt;pdf&lt;/a&gt;&lt;/p&gt;
+<<<<<<< HEAD
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/40971219_nfu_edu_tw/EpohzIvI5NRNkiL8xZt2IPUBECRxnm6NKTl9I_8BX5o09Q"&gt;所有檔案&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="latex2"></category></entry><entry><title>W3 github倉儲維護</title><link href="./2024-Spring-40971219-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T14:00:00+08:00</published><updated>2024-03-28T08:55:29+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-07:./2024-Spring-40971219-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程期中報告方式&lt;/p&gt;
+=======
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/40971219_nfu_edu_tw/EpohzIvI5NRNkiL8xZt2IPUBECRxnm6NKTl9I_8BX5o09Q"&gt;所有檔案&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="latex2"></category></entry><entry><title>W3 github倉儲維護</title><link href="./2024-Spring-40971219-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T14:00:00+08:00</published><updated>2024-04-12T10:31:02+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-07:./2024-Spring-40971219-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程期中報告方式&lt;/p&gt;
+>>>>>>> 9210f5283f3cfd3b7b1eb19027483de51e06d32a
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程期中報告方式&lt;/p&gt;
 
 
@@ -124,19 +137,19 @@
 &lt;p&gt;繼上週的以codespaces維護外，還有以gitpod的方式維護，因為codespaces每月有固定使用量，若使用完畢則須要有其他方式維護&lt;/p&gt;
 &lt;h1&gt;w3 Latex學習與編譯&lt;/h1&gt;
 &lt;p&gt;利用老師給的latex範本，進行latex的編譯方式學習。&lt;/p&gt;
-&lt;p&gt;在下載的可攜套件中，需要在啟動路徑上，加入編譯latex的指令，使得能夠利用可攜進行latex的編譯&lt;/p&gt;</content><category term="w3"></category><category term="latex"></category></entry><entry><title>W2 子模組</title><link href="./2024-Spring-40971219-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-03-28T08:55:35+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-02-29:./2024-Spring-40971219-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程分組配置&lt;/p&gt;
+&lt;p&gt;在下載的可攜套件中，需要在啟動路徑上，加入編譯latex的指令，使得能夠利用可攜進行latex的編譯&lt;/p&gt;</content><category term="w3"></category><category term="latex"></category></entry><entry><title>W2 子模組</title><link href="./2024-Spring-40971219-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-04-12T10:31:02+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-02-29:./2024-Spring-40971219-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程分組配置&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程分組配置&lt;/p&gt;
 
 
 &lt;h1&gt;w2 分組與子模組&lt;/h1&gt;
 &lt;p&gt;每8人為一組，組長建立分組倉儲，組員以子模組加入分組倉儲&lt;/p&gt;
 &lt;h2&gt;分組倉儲維護&lt;/h2&gt;
-&lt;p&gt;利用github上的codespaces對倉儲進行維護&lt;/p&gt;</content><category term="w2"></category><category term="子模組"></category></entry><entry><title>W1 github建立</title><link href="./2024-Spring-40971219-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-22T14:00:00+08:00</published><updated>2024-03-28T08:55:41+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-02-22:./2024-Spring-40971219-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程初步建設&lt;/p&gt;
+&lt;p&gt;利用github上的codespaces對倉儲進行維護&lt;/p&gt;</content><category term="w2"></category><category term="子模組"></category></entry><entry><title>W1 github建立</title><link href="./2024-Spring-40971219-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-22T14:00:00+08:00</published><updated>2024-04-12T10:31:02+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-02-22:./2024-Spring-40971219-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程初步建設&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程初步建設&lt;/p&gt;
 
 
 &lt;h1&gt;w1 github建立與Replit的設置&lt;/h1&gt;
-&lt;p&gt;在github中建立個人倉儲，並與replit連接，最後能夠在replit上進行改版&lt;/p&gt;</content><category term="w1"></category><category term="建立與準備"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w0-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-22T07:30:52+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w0-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;在github中建立個人倉儲，並與replit連接，最後能夠在replit上進行改版&lt;/p&gt;</content><category term="w1"></category><category term="建立與準備"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w0-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-22T08:22:46+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w0-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
