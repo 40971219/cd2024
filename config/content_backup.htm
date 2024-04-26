@@ -20,20 +20,20 @@
 <p><a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/40971219_nfu_edu_tw/ET_MpTSJQv1Iv9FRs0y9iCwBwN5Xz8D4q9EwRK4bX0NfcA?e=UeDPjz">[逐字搞]</a></p>
 <p>- 利用codespaces直接建造資料夾並上傳檔案<br/>- 利用github上的actions功能直接編譯成pdf，並把結果發布在發布區<br/>- 在ignore內新增能夠移出不必要檔案的功能</p>
 <h1>學員</h1>
-<p></p>
-<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">&lt;script src="./../cmsimde/static/brython.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/brython_stdlib.js"&gt;&lt;/script&gt;
-&lt;!-- 啟動 Brython --&gt;
-&lt;p&gt;
-&lt;script&gt;
+<p>ex:</p>
+<script src="/get_page/cmsimde/static/brython.js"></script>
+<script src="/get_page/cmsimde/static/brython_stdlib.js"></script>
+<!-- 啟動 Brython -->
+<p>
+<script>
 window.onload=function(){
 brython({debug:1, pythonpath:['./../cmsimde/static/','./../downloads/py/']});
 }
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;div id="brython_div1"&gt;&lt;/div&gt;
-&lt;p&gt;
-&lt;script type="text/python"&gt;
+</script>
+</p>
+<div id="brython_div1"></div>
+<p>
+<script type="text/python">
 from browser import window, ajax, document, html
 
 def fetch_csv_data():
@@ -86,14 +86,14 @@ def fetch_csv_data():
         group_repo_url = f"https://github.com/mdecd2024/2b-midbg{group}"
 
         # 添加學號, 網站, 倉儲連結和序號到 brython_div
-        brython_div &lt;= str(index) + ". " + html.A(student_id, href=site_url)
-        brython_div &lt;= " ("
-        brython_div &lt;= html.A("repo", href=repo_url)
-        brython_div &lt;= ") | " 
-        brython_div &lt;= html.A("Group Site", href=group_site_url)
-        brython_div &lt;= " | "
-        brython_div &lt;= html.A("Group Repo", href=group_repo_url)
-        brython_div &lt;= html.BR()
+        brython_div <= str(index) + ". " + html.A(student_id, href=site_url)
+        brython_div <= " ("
+        brython_div <= html.A("repo", href=repo_url)
+        brython_div <= ") | " 
+        brython_div <= html.A("Group Site", href=group_site_url)
+        brython_div <= " | "
+        brython_div <= html.A("Group Repo", href=group_repo_url)
+        brython_div <= html.BR()
 
     else:
       print("Error:", req.text)
@@ -106,8 +106,9 @@ def fetch_csv_data():
   req.send()
   
 # 呼叫函式讀取 CSV 資料
-fetch_csv_data()</pre>
-<p><br/><br/></p><h1>cmsimde</h1>
+fetch_csv_data()
+</script>
+</p><h1>cmsimde</h1>
 <p><span style="background-color: #ccffcc;">SMap</span> - SiteMap - 依照階次列出網站的所有頁面.</p>
 <p><span style="background-color: #ccffcc;">EditA</span> - Edit All page - 將所有頁面放入編輯模式中, 主要用來處理頁面搬遷, 刪除或決定衝突頁面內容版本.</p>
 <p><span style="background-color: #ccffcc;">Edit</span> - Edit page - 先選擇要編輯的單一頁面後, 再點選 Edit, 即可進入單一頁面的編輯模式.</p>
