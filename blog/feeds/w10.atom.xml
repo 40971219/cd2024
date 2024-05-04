@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-04-27T12:13:52+08:00</updated><entry><title>W10</title><link href="./2024-Spring-40971219-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-04-27T12:13:52+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./2024-Spring-40971219-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40971219協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-05-04T03:39:11+08:00</updated><entry><title>W10</title><link href="./2024-Spring-40971219-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-05-04T03:39:11+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./2024-Spring-40971219-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
 
 
@@ -81,6 +81,6 @@
 &lt;li&gt;4.在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬&lt;/li&gt;
 &lt;li&gt;5.matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="x y 座標圖" src="https://github.com/40971219/cd2024/blob/19a9aaf16e6cae36f471cde71dd73d274f176950/images/2d_ball_platform_balancing.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40971219/cd2024/blob/19a9aaf16e6cae36f471cde71dd73d274f176950/images/2d_ball_platform_balancing.png"&gt;x y 座標圖&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;任務三 鋼球平衡台零組件繪圖&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/40971219_nfu_edu_tw/Elb2dvg_XwpLm0UUru-c0VEBmBhAM4H9Qeyaz6Y0S51VyA"&gt;檔案連結&lt;/a&gt;&lt;/p&gt;</content><category term="w10"></category><category term="Task"></category></entry></feed>
