@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-05-14T06:35:25-00:00</lastmod>
+<lastmod>2024-05-16T08:07:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-05-14T06:35:25-00:00</lastmod>
+<lastmod>2024-05-16T08:07:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-05-14T06:35:25-00:00</lastmod>
+<lastmod>2024-05-16T08:07:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-05-14T06:35:25-00:00</lastmod>
+<lastmod>2024-05-16T08:07:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2024-03-22T07:30:52+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-40971219-w13-blog-tutorial.html</loc>
+<lastmod>2024-05-16T08:06:52+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -151,6 +158,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w13.html</loc>
+<lastmod>2024-05-16T14:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/w2.html</loc>
 <lastmod>2024-03-28T08:55:35+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -193,15 +207,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/task2.html</loc>
-<lastmod>2024-05-14T06:34:46+08:06</lastmod>
+<loc>./tag/experience.html</loc>
+<lastmod>2024-05-16T14:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/experience.html</loc>
-<lastmod>2024-05-14T06:33:59+08:06</lastmod>
+<loc>./tag/task2.html</loc>
+<lastmod>2024-05-14T06:34:46+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -271,7 +285,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40971219.html</loc>
-<lastmod>2024-05-14T06:35:16+08:06</lastmod>
+<lastmod>2024-05-16T14:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
